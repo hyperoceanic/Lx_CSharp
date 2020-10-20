@@ -2,4 +2,28 @@
 
 More info to follow.
 
-What is Lx_CSharp all about?
+What is Lx_CSharp all about? 
+
+I work as a senior developer or tech lead. When I'm working with other developers, I have found it useful to articulate my expectations for them based on their current level of competency and experience - I'd expect a junior developer to be able to code to a certain standard, but a senior would be expected to write code to another more stringent standard. This guide encapsulates those ideas. 
+
+I had hoped to find an existing guide for the C# programming language that expressed coding proficiency as a journey, but while lots of guidance exists, it generally does not express this guidance in terms of the expertise required to know when to follow it slavishly, when to adopt is as a matter of routine, and when to ignore it.
+
+One document I did find helpful in framing my thoughts around competency levels was the Software Engineering Competency Model (SWECOM) from the IEEE Computer Society. I have adopted their five competency models as shown in the table below.
+
+
+.SWECOM Competency Levels
+|===
+|Level|Description
+|Technician
+|'Follows'. In general, a Technician follows instructions.
+|Entry Level Practitioner 
+|'Assists'. an Entry Level Practitioner assists in performance of an activity or performs an activity with supervision.
+|Practitioner
+|'Participates'. A Practitioner performs activities with little or no supervision;
+|Technical Leader
+|'Leads'. A Technical Leader leads individuals and teams in the performance of activities;
+|Senior Software Engineer 
+|'Creates'. Modifies existing methods and tools and creates new ones.
+|===
+
+Reviewing these, I have only worked with one person who I'd flag as being at the Technician level. Some 'first job' students who were somewhere between Technical and Entry Level Practitioner, for the first few days of their employment but that was always going to be the case.
