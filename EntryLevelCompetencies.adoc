@@ -1,0 +1,4 @@
+= Entry Level Competencies
+
+== Code Layout
+An Entry Level developer should be able to follow a clear layout scheme for C# code.
